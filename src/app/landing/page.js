@@ -8,7 +8,7 @@ import ComputersCanvas from "./canvas/Computer";
 
 const Page = () => {
   return (
-    <div className="text-center min-h-dvh bg-slate-900">
+    <div className="text-center min-h-dvh bg-slate-950">
       <StarsCanvas />
       <Navbar />
     </div>
